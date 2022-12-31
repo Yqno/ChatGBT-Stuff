@@ -1,3 +1,3 @@
 # OpenAi-Stuff
-Stuff that the ChatGBTQ Coded
+Stuff that the ChatGBT Coded
 Just for Expierience 
