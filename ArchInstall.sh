@@ -25,7 +25,7 @@ fi
 mount /dev/sda2 /mnt
 
 # Install Arch Linux and KDE, excluding games packages
-pacstrap /mnt base base-devel kde-applications kde-frameworks
+pacstrap /mnt base base-devel kde-applications kde-frameworks Network-Manager
 sed -i '/games/d' /mnt/etc/pacman.conf
 
 # Generate fstab
